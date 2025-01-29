@@ -37,5 +37,7 @@ Run `npm start` to launch the application.
 def hello():
     print("Hello, World!")
 ```
+---
+**Made with ❤️ by [Sowmya ganiga](https://github.com/Sowmyasganiga)**
 
 
