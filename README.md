@@ -33,5 +33,9 @@ Run `npm start` to launch the application.
 
 [Visit GitHub](https://github.com)
 
+```python
+def hello():
+    print("Hello, World!")
+```
 
 
