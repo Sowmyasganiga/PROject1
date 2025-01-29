@@ -19,4 +19,5 @@ Run `npm start` to launch the application.
 2. Install dependencies
 3. Start the application
 
+> ⚠️ Make sure you have Node.js installed before running the command.
 
