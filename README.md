@@ -21,3 +21,8 @@ Run `npm start` to launch the application.
 
 > ⚠️ Make sure you have Node.js installed before running the command.
 
+| Command | Description |
+|---------|-------------|
+| `npm install` | Install dependencies |
+| `npm start` | Start the server |
+| `npm run build` | Build the project |
