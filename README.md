@@ -15,5 +15,8 @@ Run `npm start` to launch the application.
 - Configure environment variables
 - Run the application
 
+1. Clone the repository
+2. Install dependencies
+3. Start the application
 
 
